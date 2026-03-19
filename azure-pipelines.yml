@@ -13,8 +13,8 @@ steps:
 - script: npm install
   displayName: 'Install dependencies'
 
-- script: npm run start
-  displayName: 'Run app'
+- script: echo "Build complete"
+  displayName: 'Build step'
 
 - task: AzureWebApp@1
   inputs:

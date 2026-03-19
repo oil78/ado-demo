@@ -21,3 +21,4 @@ steps:
     azureSubscription: 'azure-conn'
     appName: 'gpt-app-test'
     package: '.'
+    displayName: 'Deploy to Azure'

@@ -1,1 +1,1 @@
-console.log("Pipeline triggered again!");
+console.log("Pipeline triggered again x 2!");

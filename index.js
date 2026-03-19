@@ -1,1 +1,1 @@
-console.log("Hello from Azure Pipeline");
+console.log("Pipeline triggered again!");
